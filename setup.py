@@ -233,7 +233,7 @@ if not (any('--' + opt in sys.argv
 
 setup(  # Finally, pass this all along to distutils to do the heavy lifting.
     name="matplotlib",
-    version=__version__,
+    version="3.3.1",
     description="Python plotting package",
     author="John D. Hunter, Michael Droettboom",
     author_email="matplotlib-users@python.org",

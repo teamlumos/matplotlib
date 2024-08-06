@@ -1,2 +1,2 @@
 [build-system]
-requires = ["certifi>=2020.06.20", "numpy>=1.15",]
+requires = ["setuptools", "certifi>=2020.06.20", "numpy>=1.15",]
